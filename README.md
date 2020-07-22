@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/rodrigo-andrade-b8a191164/)
+
+Olá! Me chamo Rodrigo Andrade, sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.
+
+- 🔭 Atualmente trabalho como desenvolvedor Trainee na [Squadra Tecnologia](https://www.linkedin.com/company/squadratecnologia/)
+- 🌱 Aprendendo: Framework Angular, Typescript, Javascript, Framework Lumen, PHP, Node JS.
