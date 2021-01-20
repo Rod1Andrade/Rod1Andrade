@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 Olá! Me chamo Rodrigo Andrade, sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.
 
-- 🔭 Atualmente trabalho como desenvolvedor Trainee na [Squadra Tecnologia](https://www.linkedin.com/company/squadratecnologia/)
 - 🌱 Aprendendo: Framework Flutter, Framework Angular, Typescript, Javascript, Framework Lumen, PHP, Node JS.
