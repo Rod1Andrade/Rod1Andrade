@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Olá! Me chamo Rodrigo Andrade, sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.
 
-- 🌱 Aprendendo: Framework Flutter.
+- 🌱 Aprendendo: Flutter.
