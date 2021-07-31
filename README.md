@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/rodrigo-andrade-b8a191164/) ![Twitch Status](https://img.shields.io/twitch/status/rod1dev?style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/rodrigo-andrade-b8a191164/) [![Twitch Status](https://img.shields.io/twitch/status/rod1dev?style=flat-square)](https://www.twitch.tv/rod1dev/)
 
 Olá! Me chamo Rodrigo Andrade, sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.
 
