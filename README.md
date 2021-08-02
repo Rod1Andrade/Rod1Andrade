@@ -8,7 +8,7 @@
 </div>
 
 <hr />
-<p> Sinta-se livre para me seguir nas redes sociais e entrar em contato comigo, sou bem amigável e gosto de interagir com a comunidade de desenvolvedores e apaixonados por tecnologia</p>
+<p> Sinta-se livre para me seguir nas redes sociais e entrar em contato comigo, sou bem amigável e gosto de interagir com a comunidade de desenvolvedores e apaixonados por tecnologia.</p>
 <center>
 <a href="https://www.linkedin.com/in/rod1dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.twitch.tv/rod1dev" target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
