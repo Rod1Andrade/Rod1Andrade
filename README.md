@@ -3,10 +3,6 @@
 <p>Me chamo Rodrigo Andrade, tenho 22 anos e sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.</p>
 <p>Meu último emprego foi na Squadra Tecnologia como desenvolvedor FullStack, atuando nas tecnologias <b>Angular</b> no Frontend e <b>Laravel/Lumen</b> no backend. Gosto de fazer Lives na Twitch falando sobre algum projeto que estou fazendo e por vezes ensinando o que sei a outras pessoas.</p>
 
-<div>
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Rod1Andrade&theme=radical&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rod1Andrade&layout=compact&theme=radical"/>
-</div>
-
 <hr />
 <p> Sinta-se livre para me seguir nas redes sociais e entrar em contato comigo, sou bem amigável e gosto de interagir com a comunidade de desenvolvedores e apaixonados por tecnologia.</p>
 <center>
