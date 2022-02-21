@@ -1,7 +1,6 @@
 <h2>Hi there :shipit: :shipit: </h2>
 
 <p>Me chamo Rodrigo Andrade, tenho 22 anos e sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.</p>
-<p>Meu último emprego foi na Squadra Tecnologia como desenvolvedor FullStack, atuando nas tecnologias <b>Angular</b> no Frontend e <b>Laravel/Lumen</b> no backend. Gosto de fazer Lives na Twitch falando sobre algum projeto que estou fazendo e por vezes ensinando o que sei a outras pessoas.</p>
 
 <hr />
 <p> Sinta-se livre para me seguir nas redes sociais e entrar em contato comigo, sou bem amigável e gosto de interagir com a comunidade de desenvolvedores e apaixonados por tecnologia.</p>
