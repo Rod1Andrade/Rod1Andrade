@@ -1,7 +1,5 @@
 <h2>Hi there :shipit: :shipit: </h2>
 
-<p>Me chamo Rodrigo Andrade, tenho 22 anos e sou estudante de Sistemas de Informação pela Universidade Estadual de Goiás.</p>
-
 <hr />
 <p> Sinta-se livre para me seguir nas redes sociais e entrar em contato comigo, sou bem amigável e gosto de interagir com a comunidade de desenvolvedores e apaixonados por tecnologia.</p>
 <center>
